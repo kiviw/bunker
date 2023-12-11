@@ -1,0 +1,1 @@
+Please refer to the installation guide provided separately for detailed instructions on setting up the marketplace.
